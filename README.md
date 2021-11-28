@@ -8,5 +8,4 @@
 - 🌱 currently learning frontend/backend web development and react
 - 💬 feel free to chat on Discord: winston#4632
 - ⭐ currently maintaining 5+ bots
-
-https://e.rip/outlaw
+- https://e.rip/outlaw
