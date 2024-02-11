@@ -6,6 +6,5 @@
 
 - 🦾 Discord bot developer
 - 🌱 currently learning frontend/backend web development and react
-- 💬 feel free to chat on Discord: winston#4632
-- ⭐ currently maintaining 5+ bots
-- https://e.rip/outlaw
+- 💬 feel free to chat on Discord: win.ston
+- ⭐ maintaining several websites and bots
